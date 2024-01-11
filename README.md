@@ -1,4 +1,3 @@
-# abdulkadiryakut
 <h1 align="center">Hi 👋, I'm Abdulkadir</h1> 
 <div align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" align = "right" width="400"></div>
 <br> A passionate fullstack/backend developer from Türkiye <br> - 🌱 I’m currently learning C#, JavaScript, .Net Core
